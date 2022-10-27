@@ -1,4 +1,4 @@
-module github.com/libp2p/go-libp2p-webrtc-direct
+module github.com/livioalves/go-libp2p-webrtc-direct
 
 go 1.18
 
